@@ -1,0 +1,11 @@
+.todo_list {
+  text-align: center;
+}
+
+.list_style {
+  min-height: 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: yellow;
+}
