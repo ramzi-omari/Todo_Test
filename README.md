@@ -1,5 +1,5 @@
 
 npm i  
 
-npm start 
+# npm start 
 npm install <package>
